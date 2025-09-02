@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Deepak Kumar Patro</h1>
-<h3 align="center">🚀 Computer Science & Data Science Student @ Sai University | AI/ML Enthusiast | Full-Stack Developer | Aspiring Innovator</h3>
+<h3 align="center">Computing and Data Science Student @ Sai University | AI/ML Enthusiast | Full-Stack Developer | Aspiring Innovator</h3>
 
 ---
 
